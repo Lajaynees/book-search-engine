@@ -1,3 +1,42 @@
+# Book Search Engine
+
+
+# Description
+
+A fully functioning Google Books API search engine, built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. This app allows avid readers to search for new books to read, allowing them to keep a list of books to purchase.
+
+# Technology
+MongoDB
+Express.js
+React.js
+Node.js
+
+### Questions
+
+
+Any questions you can reach out to:
+
+Email: [lscingram@yahoo.com](mailto:lscingram@yahoo.com)
+
+### Contact
+[GitHub](https://github.com/https://github.com/Lajaynees)
+
+[LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/lajaynees-carter-ingram-05a269150/-ab45a619a/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
